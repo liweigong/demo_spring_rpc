@@ -11,8 +11,16 @@
     <modules>
         <module>demo_spring_rpc_interface</module>
         <module>demo_spring_rpc_service</module>
-        <module>demo_spring_rpc_example</module>
+        <module>demo_spring_rpc_demo</module>
     </modules>
 
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <maven.build.timestamp.format>yyyy-MM-dd HH:mm:ss</maven.build.timestamp.format>
+        <maven.javadoc.skip>true</maven.javadoc.skip>
+        <java_source_version>1.8</java_source_version>
+        <java_target_version>1.8</java_target_version>
+        <spring.version>4.3.19.RELEASE</spring.version>
+    </properties>
 
 </project>
