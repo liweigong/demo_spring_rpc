@@ -5,7 +5,7 @@ import org.liweigong.spring.rpc.rmi.IHelloService;
 import org.springframework.stereotype.Service;
 
 /**
- * @author xiaoming.kang
+ * @author liweigong
  * @date 2019/03/14.
  */
 @Service

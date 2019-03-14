@@ -3,7 +3,7 @@ package org.liweigong.spring.rpc.rmi;
 import org.liweigong.spring.rpc.entity.Person;
 
 /**
- * @author xiaoming.kang
+ * @author liweigong
  * @date 2019/03/14.
  */
 public interface IHelloService {

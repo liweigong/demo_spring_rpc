@@ -3,7 +3,7 @@ package org.liweigong.spring.rpc.entity;
 import java.io.Serializable;
 
 /**
- * @author xiaoming.kang
+ * @author liweigong
  * @date 2019/03/14.
  */
 public class Person implements Serializable{

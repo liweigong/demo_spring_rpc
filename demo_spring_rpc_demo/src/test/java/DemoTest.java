@@ -5,7 +5,7 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 /**
- * @author xiaoming.kang
+ * @author liweigong
  * @date 2019/03/14.
  */
 

@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * @author xiaoming.kang
+ * @author liweigong
  * @date 2019/03/14.
  */
 @RestController("/")
